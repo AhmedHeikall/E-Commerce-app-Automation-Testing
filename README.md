@@ -55,7 +55,9 @@ The following scenarios were fully automated and validated:
 ## 🏗️ Project Structure (BDD + POM)
 
 Ecommerce-Automation/
-│
+
+```
+
 ├── src
 │ ├── main
 │ │ └── java
@@ -104,6 +106,8 @@ Ecommerce-Automation/
 │ └── SC10_ShoppingCart.feature
 │
 └── README.md
+
+```
 
 ## ⚙️ Technologies & Tools
 - Java
