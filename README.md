@@ -7,7 +7,7 @@ and **sponsored by MCIT (Ministry of Communications and Information Technology �
 
 The project demonstrates practical application of **UI Test Automation**, **BDD**, and **industry-standard automation frameworks** on a real-world E-Commerce system.
 
-🔗 [View **certificate:**](www.udacity.com/certificate/e/3b8f9076-c714-11ec-b84e-d3c615040bc3) .
+🔗 [View **certificate**](<a href="https://www.udacity.com/certificate/e/3b8f9076-c714-11ec-b84e-d3c615040bc3" target="_blank"></a>) 
 ---
 
 ## 📌 Project Overview
