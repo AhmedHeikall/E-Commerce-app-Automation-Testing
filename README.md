@@ -55,7 +55,7 @@ The following scenarios were fully automated and validated:
 
 ## 🏗️ Project Structure (BDD + POM)
 
-Ecommerce-Automation/
+E-commerce-Automation/
 
 ```
 
@@ -105,7 +105,7 @@ Ecommerce-Automation/
 │ ├── SC08_FollowUs.feature
 │ ├── SC09_Wishlist.feature
 │ └── SC10_ShoppingCart.feature
-│
+├── target
 └── README.md
 
 ```
