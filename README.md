@@ -7,12 +7,13 @@ and **sponsored by MCIT (Ministry of Communications and Information Technology �
 
 The project demonstrates practical application of **UI Test Automation**, **BDD**, and **industry-standard automation frameworks** on a real-world E-Commerce system.
 
+🔗 [View **certificate:**](www.udacity.com/certificate/e/3b8f9076-c714-11ec-b84e-d3c615040bc3) .
 ---
 
 ## 📌 Project Overview
 This project automates a complete **UI test plan** for a **B2C E-Commerce web application** using **Selenium WebDriver**, **Behavior-Driven Development (BDD)**, and the **Page Object Model (POM)** design pattern.
 
-The automation suite validates all major user workflows including authentication, product browsing, shopping cart operations, checkout, and order creation.  
+The automation suite validates all major user workflows, including authentication, product browsing, shopping cart operations, checkout, and order creation.  
 A **professional execution report** is generated after each test run, showing **PASS/FAIL status**, **execution time**, and **step-level results**.
 
 ---
